@@ -32,5 +32,5 @@ if (isset($_POST['submit'])){
         $angkasatu = $angkadua;
         $angkadua = $hasil;
     }
-}
+ }
 ?>
